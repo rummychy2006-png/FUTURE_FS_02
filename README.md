@@ -31,7 +31,6 @@ This project helped me strengthen my fundamentals of web development.
 - **HTML5** – For structuring the web pages  
 - **CSS3** – For styling and layout  
 - **JavaScript** – For cart logic and interactivity  
-- **Font Awesome** – For icons (shopping cart)
 
 ---
 
